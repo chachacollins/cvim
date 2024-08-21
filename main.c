@@ -48,6 +48,6 @@ int main(void) {
       break;
     }
   }
+  printf("hello world");
   return 0;
 }
-

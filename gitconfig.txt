@@ -1,7 +1,0 @@
-[user]
-	name = cursedcadaver
-	email = collinschacha@hotmail.com
-[init]
-	defaultBranch = main
-[credential]
-	helper = store
